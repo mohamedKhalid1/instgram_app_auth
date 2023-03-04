@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # instgram-app
-=======
-# instgram_clone
 
 A new Flutter project.
 
